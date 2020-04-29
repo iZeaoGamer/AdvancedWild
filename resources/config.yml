@@ -1,13 +1,13 @@
 ---
 # Developed by Az928
 # The world where players will be sent to wild
-world: "survival"
+world: "wild"
 
 # Maximum radius of wild
-max: 2000
+max: 5000
 
 # Minimum radius of wild
-min: -200
+min: -5000
 
 # Tip sent when players sent to wild
 wild.msg: "§bYou have been teleported somewhere wild!"
